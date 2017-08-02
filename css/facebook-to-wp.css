@@ -1,0 +1,66 @@
+.f2w-text{
+	
+}
+.f2w-image-box{
+	
+}
+.f2w-image{
+	margin: 8px;
+}
+.f2w-image img {
+	max-height: 500px;
+}
+.f2w-video{
+	margin: 8px;
+}
+.f2w-footer{
+	background-color: #f7f7f7;
+	border: 1px solid rgba(0, 0, 0, .08);
+	margin: 8px 0;
+	min-height: 132px;
+}
+.f2w-footer p{
+	margin: 0 !important;
+}
+.f2w-footer a{
+	text-decoration: none;
+}
+.f2w-thumb-box{
+	position: relative;
+	float: left;
+}
+.f2w-thumb{
+	margin: 8px;
+}
+.f2w-thumb img{
+	max-height: 114px;
+}
+.f2w-thumb-video{
+	position: absolute;
+	top: 46px;
+	left: 16px;
+}
+.f2w-link-box{
+	overflow: hidden;
+	padding: 10px;
+}
+.f2w-link-name{
+	color: #3b5998;
+	font-weight: bold;
+	font-size: 13px;
+}
+a:hover .f2w-link-name{
+	text-decoration: underline;
+}
+.f2w-link-caption{
+	color: gray;
+	font-size: 12px;
+}
+.f2w-link-description{
+	color: gray;
+	font-size: 12px;
+	margin-top: 7px;
+}
+.f2w-itemlink{
+	margin-top: 9px;
+}

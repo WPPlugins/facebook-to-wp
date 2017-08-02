@@ -1,0 +1,46 @@
+#. Description of the plugin/theme
+msgid "Auto post to WordPress from Facebook page. <a href='options-general.php?page=facebook-to-wp/f2w-options.php'>Settings - Facebook to WP</a>"
+msgstr "Facebookページの投稿を WordPress に自動投稿します。 <a href='options-general.php?page=facebook-to-wp/f2w-options.php'>設定 - Facebook to WP</a>"
+
+#. Plugin URI of the plugin/theme
+msgid "http://miyakeryo.com/plugin"
+msgstr "http://miyakeryo.com/plugin"
+
+msgid "Facebook to WordPress"
+msgstr "Facebook to WordPress"
+
+msgid "Facebook App ID & Secret"
+msgstr "FacebookアプリID・シークレットキー"
+
+msgid "<p>You will need a facebook App ID and Secret key. To get them you must register as a developer and create an application, which you can do from their <a href='https://developers.facebook.com/setup' target='_blank'>Create an App</a> page.</p>"
+msgstr "<p>FacebookアプリIDとアプリのシークレットキーが必要です。FacebookアプリIDは、<a href='https://developers.facebook.com/setup' target='_blank'>新しいアプリを作成</a> ページから簡単に作成できます。</p>"
+
+msgid "App ID"
+msgstr "アプリID"
+
+msgid "App Secret"
+msgstr "シークレットキー"
+
+msgid "Required for the plugin to work."
+msgstr "※必須"
+
+msgid "Facebook Feed Info"
+msgstr "フィード情報"
+
+msgid "Feed Name"
+msgstr "フィード名"
+
+msgid "The name of the feed."
+msgstr "※必須"
+
+msgid "Reset the posting history."
+msgstr "投稿履歴をリセットする。"
+
+msgid "It may take some time."
+msgstr "時間がかかることがあります。"
+
+msgid "You do not appear to have provided a valid App Id for your Facebook Application."
+msgstr "アプリIDが不正です。"
+
+msgid "You do not appear to have proivided a valid Secret for your Facebook Application."
+msgstr "シークレットキーが不正です。"
